@@ -1,0 +1,9 @@
+.bg__header{
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: -0.5;
+  max-width: 460px;
+  color: #151515;
+  margin: 60px 0 50px 0;
+}

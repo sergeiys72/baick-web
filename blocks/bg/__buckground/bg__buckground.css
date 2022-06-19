@@ -1,0 +1,6 @@
+.bg__background{
+  position: relative;
+  background-image: url(../../../images/header_fon.jpg);
+  flex-basis: 610px;
+  height: 836px;
+}
